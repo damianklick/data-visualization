@@ -1,0 +1,30 @@
+{
+  "name": "data-visualization",
+  "version": "1.0.0",
+  "description": "Data visualization course from freecodecamp.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damianklick/data-visualization.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damianklick/data-visualization/issues"
+  },
+  "homepage": "https://github.com/damianklick/data-visualization#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "sass": "^1.32.8"
+  },
+  "dependencies": {
+    "d3": "^6.5.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
