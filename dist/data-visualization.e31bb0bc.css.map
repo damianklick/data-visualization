@@ -1,1 +1,1 @@
-{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA;EACI;EACA;;;AAGJ;EACI;EACA;;;AAEJ;EACI","file":"data-visualization.e31bb0bc.css","sourceRoot":"..","sourcesContent":[".glasses {\n    fill: red;\n    stroke: red;\n}\n\n.teeth {\n    fill: white;\n    stroke: black;\n}\n.teethPartition {\n    stroke: black;\n}"]}
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA;EACI","file":"data-visualization.e31bb0bc.css","sourceRoot":"..","sourcesContent":["pre {\n    font-size: 7em;\n}"]}
