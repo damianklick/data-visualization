@@ -25,7 +25,11 @@
   "dependencies": {
     "d3": "^6.5.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "vega": "^5.19.1",
+    "vega-lite": "^5.0.0",
+    "vega-lite-api": "^0.15.0",
+    "vega-tooltip": "^0.25.1"
   },
   "browserslist": [
     "last 3 and_chr versions",

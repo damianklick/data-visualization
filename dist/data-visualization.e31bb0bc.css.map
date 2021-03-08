@@ -1,1 +1,1 @@
-{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA;EACI","file":"data-visualization.e31bb0bc.css","sourceRoot":"..","sourcesContent":["pre {\n    font-size: 7em;\n}"]}
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA;EACI;EACA;;;AAGJ;EACI;EACA","file":"data-visualization.e31bb0bc.css","sourceRoot":"..","sourcesContent":["body {\n    margin: 0;\n    overflow: hidden;\n}\n\n#vg-tooltip-element {\n    font-size: 20px;\n    color: #3e3c38;\n}"]}
